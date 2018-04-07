@@ -1,2 +1,2 @@
-# STAT
-8320 Data Analysis
+# STAT 8320 Data Analysis
+
