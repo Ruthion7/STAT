@@ -1,2 +1,2 @@
 # STAT
-Data analysis
+8320 Data Analysis
